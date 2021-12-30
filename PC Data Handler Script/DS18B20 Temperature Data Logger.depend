@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1544633871 source:c:\users\cvl eng s. jackson\desktop\ds18b20 temperature data logger\main_9_11_final.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"rs232.h"
+	<conio.h>
+	<stdlib.h>
+
+1501918064 c:\users\cvl eng s. jackson\desktop\ds18b20 temperature data logger\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1535482662 source:c:\users\cvl eng s. jackson\desktop\ds18b20 temperature data logger\rs232.c
+	"rs232.h"
+
